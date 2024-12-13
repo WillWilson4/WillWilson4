@@ -19,7 +19,8 @@ In my free time you can find me out snowboarding, hitting the gym, or learning n
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/williamwilson05/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/WillWilson00270694)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/WillWil00270694)
 
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=wilsowil&cover_image=true&theme=default)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wilsowil&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
