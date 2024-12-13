@@ -22,4 +22,4 @@ In my free time you can find me out snowboarding, hitting the gym, or learning n
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/WillWilson00270694)
 
 
-
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=wilsowil&cover_image=true&theme=default)
