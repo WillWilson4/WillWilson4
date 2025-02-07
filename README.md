@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=WillWilson4&color=blue)
 
 ## 🚀 About Me
-Whats up!
+
 I am an aspiring Aerospace Engineer with a passion for space exploration and sustainable technology, currently pursuing a Bachelor of Science in Aerospace Engineering at Iowa State University. As the Co-Founder of E Zip-N-Zoom, I have gorwn my skills in business management, operations, and customer service while promoting innovative electric vehicle solutions. My time with Shop Tools Outlet and E Zip-N-Zoom has allowed me to get real hands-on experience with deadlines, technological integration, and customer engagement. 
 
 I am eager to apply my strong analytical, problem-solving, and teamwork skills to the aerospace industry, contributing to cutting-edge projects and advancing my knowledge in the field. I am particularly interested in space missions, vehicle design, and propulsion technologies.
