@@ -2,12 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WillWilson4&color=blue)
 
-## 🚀 About Me
-
-I am an aspiring Aerospace Engineer with a passion for space exploration and satellite technology, currently pursuing a Bachelor of Science in Aerospace Engineering at Iowa State University. As the Co-Founder of E Zip-N-Zoom, I have grown my skills in business management, operations, and customer service while promoting innovative electric vehicle solutions. 
-
-I am eager to apply my strong analytical, problem-solving, and teamwork skills to the aerospace industry, contributing to cutting-edge projects and advancing my knowledge in the field. I am particularly interested in space missions, vehicle design, and propulsion technologies.
-
+## The satellites must be built
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=WillWilson4&show_icons=true&theme=radical)
